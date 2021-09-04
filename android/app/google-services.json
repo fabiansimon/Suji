@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "921390684812",
+    "project_id": "suji-a9b7d",
+    "storage_bucket": "suji-a9b7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921390684812:android:03a5505efc101815b579a9",
+        "android_client_info": {
+          "package_name": "com.fabiansimon.suji"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921390684812-oapqossui5rq7e03dqe69bq9lhnuspcq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXqPat3CBCRN498R_RmdANs2PRbInX-h8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921390684812-oapqossui5rq7e03dqe69bq9lhnuspcq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "921390684812-8b556esa73t8tklsvg3a62n7hvtflovc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fabiansimon.com"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
