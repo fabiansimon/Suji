@@ -12,7 +12,7 @@ List<Category> categories = <Category>[
   Category(
       title: 'Quadratische Gleichungen, Gleichungen höheren Grades',
       imageIcon: 'quadratischeGleichungen.png'),
-  Category(title: 'Planimetrie, Stereometrie', imageIcon: 'Planemetrie.png'),
+  Category(title: 'Planimetrie, Stereometrie ', imageIcon: 'Planemetrie.png'),
   Category(title: 'Trigonometrie', imageIcon: 'trigometrie.png'),
   Category(
       title: 'Vektorrechnung, Analytische Geometrie', imageIcon: 'vektor.png'),
